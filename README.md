@@ -10,7 +10,7 @@
 ### The website is fully responsive and has been deployed on vercel
 
 ### The tech stacks used are React , Vite , TailwindCSS
-
+***
 ## Future enhancements
 ### Addition of to-do list
 ### Addition of the shopping cart
